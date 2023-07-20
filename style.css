@@ -231,28 +231,93 @@ nav{
      margin:100px 300px;
 }
 .rectangle-67{
-    width: 60%;
-    height: 400px;
+    width: 100%;
+    height: 600px;
 }
 .rectangle-67 .re-67{
-    width: 50%;
-    height: 250px;
+    width: 80%;
+    height: 100%;
+  
+}
+.online{
+    font-size: 38px;
+}
+.style{
+    font-size: 12px;
+    color: gray;
+    margin-top: 10px;
 }
 .re-67{
-    width: 100%;
+    width: 1000%;
     height: 100%;
 }
 .rectangle-67 .re-78{
-    width: 100px;
-    height: 130px;
+    width: 150px;
+    height: 300px;
 }
 .re-78{
-    margin-left: -60px;
+    margin-left: -100px;
     margin-bottom: -50px;
 }
 .any-device{
     width: 50%;
     height: 200px;
     text-align: left;
+    margin-top: px;
+}
+/* section 6th start */
+.backgroun-img{
+    display: flex;
+    background-color: #FF42A5;
+    justify-content: space-between;
+   
+}
+.driven{
+    width: 60%;
+    height: ;
+    color: white;
+    padding: 50px;
+    margin: 10px 150px;
+   
+ 
+}
+.careers{
+    font-size: 50px;
+    
+  
+
+}
+.artist{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.best{
+    font-size: 15px;
+   
+}
+.left{
+    text-align: left;
+    
+    
+
+}
+.right{
+    text-align: right;
+  
+
+}
+.position{
+    color: red;
+    padding: 20px;
+    border-radius: 50px;
+    border: none;
+    margin-top: 20px;
+}
+
+.png{
+    width: 100%;
+    height: 100%;
 }
 
