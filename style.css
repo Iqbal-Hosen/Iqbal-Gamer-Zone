@@ -24,39 +24,39 @@ nav{
     margin: 0 auto;
 
 }
-.logo-container{
+.logo-1-container{
     display: flex;
     align-items: center;
     width: 50%;
     padding: 0px 0px 0px 20px;
 }
-.logo-container img{
+.logo-1-container img{
     width: 50px;
     object-fit: cover;
     margin-right: 20px;
 }
-.logo-container p{
+.logo-1-container p{
     font-size: 30px;
 }
 .span{
     color: #e893cf;
 }
-.nav-item-container{
+.nav-1-item-container{
     width: 50%;
     display: flex;
     justify-content: space-around;
 }
 
-.nav-item-container a{
+.nav-1-item-container a{
     text-decoration: none;
 }
-.button{
+.button-0{
     background-color: #e893cf;
     display: flex;
     align-items: center;
     gap: 5px;
 }
-.nav-item-container img{
+.nav-1-item-container img{
     width: 20px;
     height: 20px;
 }
@@ -66,7 +66,7 @@ nav{
 
 
 /* 1st section start */
-.main-section{
+.main-section-1{
     width: 100%;
     height: 100%;
     display: flex;
@@ -75,7 +75,7 @@ nav{
     margin-bottom: 20px;
 }
 
-.main-section > div {
+.main-section-1 > div {
     flex: 1;
 }
 
@@ -137,7 +137,7 @@ nav{
     width: 50%;
     margin: 0 auto;
 }
-.main-section img{
+.main-section-1 img{
     width: 80%;
     height: 100%;
 }
@@ -188,3 +188,71 @@ nav{
     font-size: 14px;
     font-weight: 700;
 }
+/* 3rd section start */
+.header{
+    font-size: 40px;
+    color: #0b0223;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 10px;
+  
+}
+.pera{
+    text-align: center;
+    font-size: 12px;
+    color: gray;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+.funny{
+    color: #F948B2;
+   background: linear-gradient(180deg, #F948B2 0%,#8758F1 100%);
+   background-clip: text;
+   -webkit-background-clip: text;
+   -webkit-text-fill:
+}
+/* 3rd section end */
+/* 4th section start */
+.picture{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+    
+
+}
+/* 4th section end */
+/* 5th section start */
+.img-short{
+     display: flex;
+     align-items: center;
+     gap: 50px;
+     margin:100px 300px;
+}
+.rectangle-67{
+    width: 60%;
+    height: 400px;
+}
+.rectangle-67 .re-67{
+    width: 50%;
+    height: 250px;
+}
+.re-67{
+    width: 100%;
+    height: 100%;
+}
+.rectangle-67 .re-78{
+    width: 100px;
+    height: 130px;
+}
+.re-78{
+    margin-left: -60px;
+    margin-bottom: -50px;
+}
+.any-device{
+    width: 50%;
+    height: 200px;
+    text-align: left;
+}
+
